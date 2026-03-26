@@ -1,7 +1,7 @@
 ﻿class ProcessBusinessLogic
 {
-    public event EventHandler ProcessCompleted;
-    public void startProcess()
+    public event EventHandler ProcessCompleted; // event declaration
+    public void startProcess() // method which invokes the event
     {
         Console.WriteLine("\tProcess Has Started\n");
         Thread.Sleep(2000);
