@@ -1,0 +1,14 @@
+C:\Users\bhautik.ranpara\source\repos\PR-6\PR-6\bin\Debug\net10.0\PR-6.exe
+C:\Users\bhautik.ranpara\source\repos\PR-6\PR-6\bin\Debug\net10.0\PR-6.deps.json
+C:\Users\bhautik.ranpara\source\repos\PR-6\PR-6\bin\Debug\net10.0\PR-6.runtimeconfig.json
+C:\Users\bhautik.ranpara\source\repos\PR-6\PR-6\bin\Debug\net10.0\PR-6.dll
+C:\Users\bhautik.ranpara\source\repos\PR-6\PR-6\bin\Debug\net10.0\PR-6.pdb
+C:\Users\bhautik.ranpara\source\repos\PR-6\PR-6\obj\Debug\net10.0\PR-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhautik.ranpara\source\repos\PR-6\PR-6\obj\Debug\net10.0\PR-6.AssemblyInfoInputs.cache
+C:\Users\bhautik.ranpara\source\repos\PR-6\PR-6\obj\Debug\net10.0\PR-6.AssemblyInfo.cs
+C:\Users\bhautik.ranpara\source\repos\PR-6\PR-6\obj\Debug\net10.0\PR-6.csproj.CoreCompileInputs.cache
+C:\Users\bhautik.ranpara\source\repos\PR-6\PR-6\obj\Debug\net10.0\PR-6.dll
+C:\Users\bhautik.ranpara\source\repos\PR-6\PR-6\obj\Debug\net10.0\refint\PR-6.dll
+C:\Users\bhautik.ranpara\source\repos\PR-6\PR-6\obj\Debug\net10.0\PR-6.pdb
+C:\Users\bhautik.ranpara\source\repos\PR-6\PR-6\obj\Debug\net10.0\PR-6.genruntimeconfig.cache
+C:\Users\bhautik.ranpara\source\repos\PR-6\PR-6\obj\Debug\net10.0\ref\PR-6.dll
